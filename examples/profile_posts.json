@@ -1,0 +1,10 @@
+{
+  "directUrls": [
+    "https://www.instagram.com/nasa/",
+    "https://www.instagram.com/spacex/"
+  ],
+  "resultsType": "posts",
+  "resultsLimit": 50,
+  "onlyPostsNewerThan": "3 months",
+  "addParentData": true
+}

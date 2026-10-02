@@ -1,0 +1,8 @@
+# Runtime dependencies.
+#
+# The scraper drives a remote browser on getbro.ws through the official
+# bro-api-sdk package (which brings requests and pydantic). No Chrome, no
+# Playwright, no system libraries; Python 3.10 or newer.
+bro-api-sdk>=0.1.8
+
+# Development extras live in requirements-dev.txt.

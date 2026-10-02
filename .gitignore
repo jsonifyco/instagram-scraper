@@ -1,0 +1,21 @@
+.env
+storage/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# pytest --basetemp trees used for regressions (default tmp dir is not writable here)
+.pytest-*/
+test-tmp-*/
+tmp*/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# verification artifacts (regenerate with tools/verify_live.py)
+verification/
+.cookies.json
+.cookies*.json
+cookies.txt
+.cookie_header.txt

@@ -1,0 +1,19 @@
+{
+  "directUrls": ["https://www.instagram.com/p/DcOX3hWFiey/"],
+  "resultsType": "comments",
+  "collectionMode": "complete",
+  "isNewestComments": true,
+  "includeNestedComments": true,
+  "resultsLimit": 10000,
+  "maxCommentPages": 5000,
+  "maxApiRequests": 2000,
+  "maxRunSeconds": 3300,
+  "broSessionTimeout": 3600,
+  "authenticatedRequestPause": 5,
+  "proxyTier": "lite",
+  "proxyCity": "",
+  "aiFallback": false,
+  "outputFormat": "jsonl",
+  "materializeItems": false,
+  "outputDir": "storage/comments-complete"
+}

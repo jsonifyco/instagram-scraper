@@ -1,0 +1,32 @@
+{
+  "directUrls": [
+    "https://www.instagram.com/p/DcOX3hWFiey/",
+    "https://www.instagram.com/p/DcMXl1IPNtB/",
+    "https://www.instagram.com/p/Db9IVmrDvQ4/",
+    "https://www.instagram.com/p/Dc4u1yKPj_s/",
+    "https://www.instagram.com/p/Dc37MPNSAZq/",
+    "https://www.instagram.com/p/Dc3zNGWlIpy/",
+    "https://www.instagram.com/p/Dc1U6TYGwJE/",
+    "https://www.instagram.com/p/DczLHKOGpqh/",
+    "https://www.instagram.com/p/Dcwk7e1yHaY/",
+    "https://www.instagram.com/p/DcwApJ2SUNd/",
+    "https://www.instagram.com/p/Dcv8Q_Pk06P/",
+    "https://www.instagram.com/p/DcuQVFLvJMX/"
+  ],
+  "resultsType": "comments",
+  "collectionMode": "complete",
+  "isNewestComments": true,
+  "includeNestedComments": true,
+  "resultsLimit": 10000,
+  "maxCommentPages": 5000,
+  "maxApiRequests": 8000,
+  "maxRunSeconds": 21000,
+  "broSessionTimeout": 21600,
+  "authenticatedRequestPause": 5,
+  "proxyTier": "lite",
+  "proxyCity": "",
+  "aiFallback": false,
+  "outputFormat": "jsonl",
+  "materializeItems": false,
+  "outputDir": "storage/comments-complete-12-posts"
+}

@@ -1,0 +1,8 @@
+{
+  "directUrls": ["https://www.instagram.com/explore/tags/space/"],
+  "resultsType": "posts",
+  "resultsLimit": 30,
+  "addParentData": true,
+  "aiFallback": true,
+  "outputFormat": "csv"
+}

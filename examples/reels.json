@@ -1,0 +1,11 @@
+{
+  "direct_urls": [
+    "https://www.instagram.com/nasa/reels/",
+    "https://www.instagram.com/natgeo/reels/",
+    "https://www.instagram.com/spacex/reels/",
+    "https://www.instagram.com/bbcnews/reels/",
+    "https://www.instagram.com/nytimes/reels/"
+  ],
+  "resultsType": "reels",
+  "resultsLimit": 20
+}
