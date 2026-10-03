@@ -1,6 +1,8 @@
 # Instagram Scraper: Open-Source Python Alternative to Apify
 
-A powerful, highly scalable Instagram scraper built entirely on the [getbro.ws](https://getbro.ws) stealth browser framework.
+![IG scraper built with bro](https://getbro.ws/blog/instagram-scraper/cover.jpg)
+
+Open Source Instagram scraper built entirely on the [getbro.ws](https://getbro.ws) stealth browser framework.
 
 This scraper accepts the standard Apify ([`apify/instagram-scraper`](https://apify.com/apify/instagram-scraper)) input fields, writes records in the exact Apify output shape and uses the same `resultsType` vocabulary. What makes it unique is its execution model: every request runs inside a real Chrome hosted remotely in a *bro session*. Each session operates with its own residential IP.
 
@@ -10,6 +12,8 @@ There's no need for local browser installations, no Playwright and no complex sy
 export BRO_API_KEY=sk_...
 python -m instagram_scraper --url instagram.com/nasa --type details
 ```
+
+[**See the blog post for more details**](http://localhost:3000/blog/instagram-scraper)
 
 ---
 
