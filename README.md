@@ -13,7 +13,7 @@ export BRO_API_KEY=sk_...
 python -m instagram_scraper --url instagram.com/nasa --type details
 ```
 
-[**See the blog post for more details**](http://localhost:3000/blog/instagram-scraper)
+[**See the blog post for more details**](https://getbro.ws/blog/instagram-scraper)
 
 ---
 
